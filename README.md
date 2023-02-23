@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!-- 计数器 -->
 ### Visitors
@@ -23,3 +23,7 @@
  <!-- waka-box start -->
  
  <!-- waka-box end -->
+ 
+ ### Entertainments
+<!-- Genshin Impact -->
+<img style="border-radius:12px" src="https://genshin-card.himiku.com/detail/26/1139546.png"></img>
