@@ -19,11 +19,3 @@
 ### Progress
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inscripoem&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inscripoem&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
- <!-- waka-box start -->
- 
- <!-- waka-box end -->
- 
- ### Entertainments
-<!-- Genshin Impact -->
-<img style="border-radius:12px" src="https://genshin-card.himiku.com/detail/26/1139546.png"></img>
