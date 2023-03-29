@@ -2,7 +2,7 @@
 
 <!-- 计数器 -->
 ### Visitors
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:inscripoem.readme?theme=asoul" alt=":inscripoem.readme" />  
+<a href="https://count.getloli.com/"><img src="https://moe-counter.inscripoem.repl.co/get/@:inscripoem.readme?theme=asoul" alt=":inscripoem.readme" />  
 
 ### Platform&Tools
 [![](https://img.shields.io/static/v1?label=Windows&message=10&color=%230074cd&logo=windows&style=flat-square)](https://www.microsoft.com/zh-cn/software-download/windows10)
