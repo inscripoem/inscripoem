@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-- 计数器 -->
+<!-- Counter -->
 ### Visitors
 <a href="https://count.getloli.com/"><img src="https://moe-counter.inscripoem.repl.co/get/@:inscripoem.readme?theme=asoul" alt=":inscripoem.readme" />  
 
@@ -17,5 +17,19 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 
 ### Progress
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inscripoem&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inscripoem&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=inscripoem&show_icons=true&theme=react&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=inscripoem&layout=compact&theme=react&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <img alt="Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=inscripoem&bg_color=0000&hide_border=true&layout=compact&theme=react&custom_title=Work%20Time%20This%20Week" align="center"/>
+    </td>
+  </tr>
+</table>
