@@ -14,6 +14,8 @@
 - Homepage: [inscripoem.com](https://www.inscripoem.com)
 - E-mail: [changxuben@outlook.com](mailto:changxuben@outlook.com)
 - Bilibili: [文诗不是闻诗](https://space.bilibili.com/4134451)
+- Discord: `inscripoem#5867`
+- Telegram: [@inscripoem](https://t.me/inscripoem)
 
 ### 🔨 Platform&Tools
 [![](https://img.shields.io/static/v1?label=Windows&message=10&color=%230074cd&logo=windows&style=flat-square)](https://www.microsoft.com/zh-cn/software-download/windows10)
