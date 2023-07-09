@@ -13,7 +13,7 @@
 ### 🛰 Reach me
 - Homepage: [inscripoem.com](https://www.inscripoem.com)
 - E-mail: [changxuben@outlook.com](mailto:changxuben@outlook.com)
-- Bilibili: [文诗不是闻诗](https://space.bilibili.com/4134451)
+- Bilibili: [@文诗不是闻诗](https://space.bilibili.com/4134451)
 - Discord: `inscripoem#5867`
 - Telegram: [@inscripoem](https://t.me/inscripoem)
 
