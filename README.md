@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Counter -->
-<a href="https://count.getloli.com/"><img align="right" src="https://moe-counter.inscripoem.repl.co/get/@:inscripoem.readme?theme=asoul" alt=":inscripoem.readme" /></a>
+<a href="https://count.getloli.com/"><img align="right" src="https://moe-counter.rkd.icu/get/@:inscripoem.readme?theme=asoul" alt=":inscripoem.readme" /></a>
 
 - 👨‍🎓 I'm a student majoring in BME, working on Med+AI (image processing)
 - 💖 Interested in ChatBot, Web Dev, AIGC, Art Design and all creative things
