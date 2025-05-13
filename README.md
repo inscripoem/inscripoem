@@ -29,7 +29,7 @@
 
 ### 🎨 Skills
 #### Coding
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,docker,css,html,bash,linux,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,docker,ts,go,bash,linux,git&theme=dark)](https://skillicons.dev)
 #### Creative
 [![My Skills](https://skillicons.dev/icons?i=ableton,ae,au,ai,ps,pr,blender,figma,unreal&theme=dark)](https://skillicons.dev)
 
