@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <!-- Counter -->
-<a href="https://count.getloli.com/"><img align="right" src="
-https://count.getloli.com/@inscripoem.readme?name=inscripoem.readme&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="inscripoem.readme" /></a>
+<a href="https://count.getloli.com/"> <img align="right" src="https://count.getloli.com/@inscripoem.readme?name=inscripoem.readme&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="inscripoem.readme" /> </a>
 
 - 👨‍🎓 I'm a student majoring in BME, working on Med+AI (image processing)
 - 💖 Interested in ChatBot, Web Dev, AIGC, Art Design and all creative things
