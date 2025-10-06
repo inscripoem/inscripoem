@@ -3,8 +3,8 @@
 <!-- Counter -->
 <a href="https://count.getloli.com/"> <img align="right" src="https://count.getloli.com/@inscripoem.readme?name=inscripoem.readme&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="inscripoem.readme" /> </a>
 
-- 👨‍🎓 I'm a student majoring in BME, working on Med+AI (image processing)
-- 💖 Interested in ChatBot, Web Dev, AIGC, Art Design and all creative things
+- 💻 I'm a research assistant in City University of Hong Kong, exploring AI + Robotics
+- 💖 Interested in Web Dev, AIGC, ChatBot, Art Design and all creative things
 - 🌏 Native Chinese/Good English/Learning Japanese
 - 😢 Trying to be a multilingual coder
 - 🛠 With tools we build the best tools
@@ -15,17 +15,13 @@
 - E-mail: [changxuben@outlook.com](mailto:changxuben@outlook.com)
 - Bilibili: [@文诗不是闻诗](https://space.bilibili.com/4134451)
 - Discord: `inscripoem#5867`
-- Telegram: [@inscripoem](https://t.me/inscripoem)
 
 ### 🔨 Platform&Tools
-[![](https://img.shields.io/static/v1?label=Windows&message=10&color=%230074cd&logo=windows&style=flat-square)](https://www.microsoft.com/zh-cn/software-download/windows10)
+[![](https://img.shields.io/static/v1?label=Windows&message=11&color=%230074cd&logo=windows&style=flat-square)](https://www.microsoft.com/zh-cn/software-download/windows10)
 [![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio%20Code&color=%232a7ac4&logo=visual-studio-code&style=flat-square)](https://code.visualstudio.com)
 [![](https://img.shields.io/static/v1?label=&message=Cloudflare&color=%23f38020&logo=cloudflare&logoColor=white&style=flat-square)](https://www.cloudflare.com/)
 [![](https://img.shields.io/static/v1?label=&message=Postman&color=%23ff6c37&logo=postman&logoColor=white&style=flat-square)](https://www.postman.com)
 [![](https://img.shields.io/static/v1?label=&message=Vercel&color=%23000000&logo=vercel&logoColor=white&style=flat-square)](https://vercel.com/)
-
-[![](https://img.shields.io/static/v1?label=iPhone&message=13&color=%23888888&logo=apple&style=flat-square)]()
-[![](https://img.shields.io/static/v1?label=Nvidia&message=3070&color=%2376B900&logo=nvidia&logoColor=white&style=flat-square)]()
 
 ### 🎨 Skills
 #### Coding
